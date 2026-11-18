@@ -1,0 +1,6 @@
+{
+  "name": "SpotLock — Parking Spot Saver",
+  "description": "Offline-first mobile parking spot saver with live GPS compass radar, Google Maps walking navigation, garage notes, photo capture, and meter countdown alerts.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
